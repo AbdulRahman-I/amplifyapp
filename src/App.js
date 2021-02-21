@@ -7,7 +7,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome Rahman...</h1>
-        <h3>Successfully created react app with GIT Repo using AWS Amplify<h3>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
